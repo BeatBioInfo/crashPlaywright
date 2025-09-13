@@ -1,0 +1,19 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+test-results.json
+
+# node_modules
+node_modules/
+# MacOS file
+.DS_Store
+# Jetbrains generated file
+.idea/
+# VsCode generated file
+.vscode/
+
+
